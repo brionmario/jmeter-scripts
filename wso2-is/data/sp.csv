@@ -1,0 +1,8 @@
+app_name,app_desc,image_url,access_url
+Facebook App,Facebook federated login example app.,http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19750.png,https://facebook.com
+GO SDK Demo,Demo of the GO lang SDK implementing the auth code flow.,https://miro.medium.com/max/1300/1*pk4gPFD0OLeKbwKlN1v9YA.png,https://localhost:9000/go-demo
+React OIDC,React SPA application which uses Identity server for authentication.,https://cdn.worldvectorlogo.com/logos/react.svg,https://localhost:9000/react
+Android Integration Demo,A demo application to showcase multi-factor authentication on android devices.,https://cdn.worldvectorlogo.com/logos/android.svg,https://localhost:9000/android
+Pickup Dispatch,This application helps manage the overall operations in a car rental service.,https://img.icons8.com/plasticine/2x/car.png,https://localhost:9443/pickup-dispatch
+Angular OIDC,SPA application which uses Identity server for authentication.,https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg,https://localhost:4444/angular-oidc
+Vue.js Sample,Vue sample app with demonstrating authorization code flow.,https://vuejs.org/images/logo.png,https://localhost:2342/vue-demo
